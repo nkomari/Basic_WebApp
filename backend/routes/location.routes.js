@@ -10,6 +10,4 @@ module.exports = (app) => {
   router.get("/:uuid", location.getOne);
 
   app.use("/api/location", router);
-  // app.get("/home", location.getAll);
-  // app.get("/:uuid", location.getOne);
 };
