@@ -1,0 +1,45 @@
+<div>
+  <nav class="light-blue darken-4">
+    <div class="nav-wrapper">
+      <a href="#!" class="brand-logo"
+        ><i class="material-icons left">bluetooth_searching</i>Bluetooth
+        Tracker</a
+      >
+      <ul class="right hide-on-med-and-down">
+        <li>
+          <a href="sass.html"
+            ><a routerLink="locations" class="nav-link"
+              ><i class="material-icons right">location_searching</i>Location
+              List</a
+            ></a
+          >
+        </li>
+        <li>
+          <a href="badges.html"
+            ><a routerLink="locations/:uuid" class="nav-link"
+              ><i class="material-icons right">search</i>Search</a
+            ></a
+          >
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container mt-3">
+    <router-outlet></router-outlet>
+  </div>
+</div>
+
+<!-- Compiled and minified CSS -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+/>
+
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+<link
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  rel="stylesheet"
+/>

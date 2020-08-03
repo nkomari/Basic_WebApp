@@ -1,0 +1,36 @@
+<div class="locationList">
+  <h1 style="font-size: 30px;">
+    <i class="material-icons">devices_other</i> Discoverable Devices
+  </h1>
+
+  <div class="locations">
+    <table class="highlight">
+      <thead class="head">
+        <tr>
+          <th>Name</th>
+          <th>Coordinates</th>
+          <th>Address</th>
+        </tr>
+      </thead>
+
+      <tbody class="body">
+        <tr *ngFor="let location of locations">
+          <td class="name">{{ location.name }}</td>
+          <td class="coordinates">
+            {{ location.latitude }}, {{ location.longitude }}
+          </td>
+          <td class="Rating">{{ location.address }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Compiled and minified CSS -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+/>
+
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
