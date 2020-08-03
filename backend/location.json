@@ -1,0 +1,10 @@
+{"uuid" : "8f0faf8d-bb17-45aa-8b6c-27522c4e9927", "name" : "Device_01", "latitude" : 42.984, "longitude" : -81.244, "address" : "Apt 1115, London, Ontario"}
+{"uuid" : "8d605b02-e810-427e-a3ca-e9b687fab33f", "name" : "Device_02", "latitude" : 42.988, "longitude" : -81.248, "address" : "Apt 1120, London, Ontario"}
+{"uuid" : "a8a67750-5f75-417e-853b-9344ed5edbf1", "name" : "Device_03", "latitude" : 42.992, "longitude" : -81.252, "address" : "Apt 1125, London, Ontario"}
+{"uuid" : "99c5a015-df03-4fa5-8fbc-d516a990b345", "name" : "Device_04", "latitude" : 42.996, "longitude" : -81.256, "address" : "Apt 1130, London, Ontario"}
+{"uuid" : "9a35d877-9401-4db8-b1f1-0f6148cc3a6b", "name" : "Device_05", "latitude" : 42.100, "longitude" : -81.260, "address" : "Apt 1135, London, Ontario"}
+{"uuid" : "f3172a37-fa0d-4793-98ec-11c4651122e0", "name" : "Device_06", "latitude" : 42.104, "longitude" : -81.264, "address" : "Apt 1140, London, Ontario"}
+{"uuid" : "f01493b3-cdac-435d-94e5-3bd54cb28803", "name" : "Device_07", "latitude" : 42.108, "longitude" : -81.268, "address" : "Apt 1145, London, Ontario"}
+{"uuid" : "6d992f0f-5e6b-41c8-96d2-d1b2e43586e0", "name" : "Device_08", "latitude" : 42.112, "longitude" : -81.272, "address" : "Apt 1150, London, Ontario"}
+{"uuid" : "33a7d33b-4571-455f-a4f6-a69c86aab9b8", "name" : "Device_09", "latitude" : 42.116, "longitude" : -81.276, "address" : "Apt 1155, London, Ontario"}
+{"uuid" : "b0c501ad-b777-4ce8-81b6-a9628bfbd283", "name" : "Device_10", "latitude" : 42.120, "longitude" : -81.280, "address" : "Apt 1160, London, Ontario"}
