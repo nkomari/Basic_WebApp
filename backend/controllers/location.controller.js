@@ -1,6 +1,5 @@
 const db = require("../models");
 const location = db.location;
-// const location = require("../models/location.model.js");
 
 // Retrieve all locations from the database.
 exports.getAll = (req, res) => {
